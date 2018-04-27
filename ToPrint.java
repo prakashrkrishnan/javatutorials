@@ -7,6 +7,7 @@ class ToPrint
    // int num;
     System.out.println(" This is to test continuous integration ");
     System.out.println(" second ln of printing ");
+    System.out.println(" third link ");
 
     //The input provided by user is stored in num
     //Scanner input = new Scanner(System.in);
